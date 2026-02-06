@@ -37,5 +37,5 @@ Senior-year AI Engineering student focused on LLMs, RAG, agent systems, and appl
 - Git, Linux workflows
 
 ## Contact
-- Email: (📩 email)
+- Email: bengusucakmak8@gmail.com
 - GitHub: https://github.com/bengsucakmak
